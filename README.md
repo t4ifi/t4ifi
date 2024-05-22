@@ -48,7 +48,7 @@ Passionate about cybersecurity, I pursued a high school degree in computer scien
 
 <br>
 <div align='left'>
- <div align="center">Media</div>
+
 <ul>
 
 <li>
