@@ -2,14 +2,10 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> 
 
 
-<br>
 
-Passionate about cybersecurity, I pursued a high school degree in computer science to deepen my knowledge. I have honed my skills in programming languages like Python, Bash, PHP, and MySQL, allowing me to explore and contribute to the fascinating world of cybersecurity.
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
