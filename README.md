@@ -1,72 +1,41 @@
+<p align="center"> <img width="350px" src="https://i.postimg.cc/nckmhwxk/perfil1.gif"> </p>
 
+# <img src="https://i.postimg.cc/Y0VQtvYW/Mano.gif" width="29px"> Hola! Bienvenido a mi perfil 
 
-<br>
+<p align="justify">Soy <strong>Haw441kings,</strong> un apasionado de la ciberseguridad, las redes y la programación.</p>  <p align="center"> <img src="https://img.shields.io/github/followers/XDeadHackerX?style=social"> <img src="https://komarev.com/ghpvc/?username=XDeadHackerX&style=flat-square&color=blue"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/XDeadHackerX?style=social">
+<p align="center"> <img width="250px" src="https://i.postimg.cc/bNDvKCJr/perfil2.gif"> </p>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> 
+## 👨🏻‍💻 Sobre mi
 
+<img align="right" src=https://i.postimg.cc/rwhMs5z3/perfil3.gif width="15%"/>
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
-
+- 🌎 Uruguay
+- 🎩 WhiteHat
+- 👨🏻‍💻 Cybersecurity, programming and networks
+- 🔗 Perfiles: 
 <p align="center">
-
-- **Languages**:
-  ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>   
-    
-- **Front-End Development**:
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+<img src="https://img.shields.io/badge/asciinema-D40000?logo=asciinema&logoColor=fff&style=plastic" alt="Texto alternativo de la imagen" />
+</a>
+<a href="https://vimeo.com/xxdeadhackerxx">
+<img src="https://img.shields.io/badge/Vimeo-1AB7EA?logo=vimeo&logoColor=fff&style=plastic" alt="Texto alternativo de la imagen" />
+</a>
+<a href="https://www.buymeacoffee.com/xdeadhackerx">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=plastic" alt="Texto alternativo de la imagen" />
+</a>
 </p>
 
-<br>
-<br>
+## 💻 Tecnologías
 
------
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
+## 📚 Tecnologías en Proceso
 
-<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Hack The Box Badge](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## <b> Social</b>
-<br>
-<div align='left'>
-
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-  <a href="https://www.linkedin.com/in/andres-nunez-581a28286/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin:  Andres Nuñez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-  </a>
-</li>
-
-<br>
-
-<li>
-  <a href="https://x.com/Andresnuneez18" target="_blank">
-    <img src="https://img.shields.io/badge/twitter:  Andresnuneez18-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
-  </a>
-</li>
-
-<br>
-
-
-	
-</ul>
-</div>
