@@ -11,7 +11,7 @@
 - 🌎 Uruguay
 - 🎩 WhiteHat
 - 👨🏻‍💻 Cybersecurity, programming and networks
-- 🔗 Perfiles: 
+- 📝 WriteUps
 <p align="center">
 
 </a>
