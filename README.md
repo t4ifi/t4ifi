@@ -2,8 +2,7 @@
 
 # <img src="https://i.postimg.cc/Y0VQtvYW/Mano.gif" width="29px"> Hola! Bienvenido a mi perfil 
 
-<p align="justify">Soy <strong>Haw441kings,</strong> un apasionado de la ciberseguridad, las redes y la programación.</p>  <p align="center"> <img src="https://img.shields.io/github/followers/XDeadHackerX?style=social"> <img src="https://komarev.com/ghpvc/?username=XDeadHackerX&style=flat-square&color=blue"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/XDeadHackerX?style=social">
-<p align="center"> <img width="250px" src="https://i.postimg.cc/bNDvKCJr/perfil2.gif"> </p>
+<p align="justify">Soy <strong>Haw441kings,</strong> un apasionado de la ciberseguridad, las redes y la programación.</p>  <p align="center"> 
 
 ## 👨🏻‍💻 Sobre mi
 
