@@ -13,13 +13,13 @@
 - 👨🏻‍💻 Cybersecurity, programming and networks
 - 🔗 Perfiles: 
 <p align="center">
-<img src="https://img.shields.io/badge/asciinema-D40000?logo=asciinema&logoColor=fff&style=plastic" alt="Texto alternativo de la imagen" />
+
 </a>
-<a href="https://vimeo.com/xxdeadhackerxx">
-<img src="https://img.shields.io/badge/Vimeo-1AB7EA?logo=vimeo&logoColor=fff&style=plastic" alt="Texto alternativo de la imagen" />
+
+
 </a>
-<a href="https://www.buymeacoffee.com/xdeadhackerx">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=plastic" alt="Texto alternativo de la imagen" />
+
+
 </a>
 </p>
 
