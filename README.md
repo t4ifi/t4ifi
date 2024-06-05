@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 Sobre mi
 
-<img align="right" src=https://i.postimg.cc/rwhMs5z3/perfil3.gif width="15%"/>
+
 
 - 🌎 Uruguay
 - 🎩 WhiteHat
