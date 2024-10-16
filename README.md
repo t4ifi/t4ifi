@@ -9,7 +9,7 @@
 
 
 - 🌎 Uruguay
-- 🎩 WhiteHat
+- 🎩 NoHat
 - 👨🏻‍💻 Cybersecurity, programming and networks
 - 📝 WriteUps
 <p align="center">
