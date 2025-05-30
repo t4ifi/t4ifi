@@ -39,3 +39,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+<p align="center">
+  📫 ¿Querés saber más o ver mis proyectos? Visitá <a href="https://t4ifi.github.io" target="_blank">t4ifi.github.io</a>
+</p>
